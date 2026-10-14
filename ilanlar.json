@@ -1,73 +1,37 @@
 {
-  "updatedAt": "2026-10-14T00:00:00.000Z",
+  "updatedAt": "2026-10-14T03:45:00.000Z",
   "source": "https://bradagayrimenkul.sahibinden.com/",
   "count": 9,
   "ilanlar": [
-    {
-      "id": 1339509506,
-      "tip": "Satılık",
-      "kategori": "Daire",
-      "fiyat": "7.500.000 TL",
-      "baslik": "EŞYALI DOĞALGAZ-HAVUZ VE BAHÇELİ 120 M2 2+1 DAİRE",
-      "detay": "2+1 | 120 m² | İlan No: 1339509506",
-      "konum": "Aydın / Kuşadası",
-      "img": "https://i0.shbdn.com/photos/50/95/06/lthmb_1339509506jlc.avif",
-      "link": "https://sahibinden.com/ilan/emlak-konut-satilik-esyali-dogalgaz-havuz-ve-bahceli120-m2-2-plus1-3-plus1-den-donme-daire-1339509506/detay"
-    },
-    {
-      "id": 1345341751,
-      "tip": "Satılık",
-      "kategori": "İş Yeri",
-      "fiyat": "16.250.000 TL",
-      "baslik": "DAVUTLAR MERKEZ ANAYOL KENARI 400 M2 DÜKKAN",
-      "detay": "400 m² | İlan No: 1345341751",
-      "konum": "Aydın / Kuşadası",
-      "img": "https://i0.shbdn.com/photos/34/17/51/lthmb_13453417511iy.avif",
-      "link": "https://sahibinden.com/ilan/emlak-is-yeri-satilik-davutlar-merkez-anayol-kenari-400-m2-satilik-dukkan-isyeri-1345341751/detay"
-    },
     {
       "id": 1330951435,
       "tip": "Kiralık",
       "kategori": "Daire",
       "fiyat": "25.000 TL",
-      "baslik": "TAM MERKEZDE SAHİLE 100 M DENİZ GÖREN 2+1 KİRALIK",
-      "detay": "2+1 | İlan No: 1330951435",
+      "baslik": "TAM MERKEZDE SAHİLE 100 M DENİZ GÖREN 2+1 KİRALIK DAİRE",
+      "detay": "İlan No: 1330951435",
       "konum": "Aydın / Kuşadası",
       "img": "https://i0.shbdn.com/photos/95/14/35/lthmb_1330951435o85.avif",
-      "link": "https://sahibinden.com/ilan/emlak-konut-kiralik-tam-merkezde-sahile-100-m-deniz-goren-2-plus1-kiralik-daire-1330951435/detay"
+      "fotos": [
+        "https://i0.shbdn.com/photos/95/14/35/lthmb_1330951435o85.avif"
+      ],
+      "link": "https://sahibinden.com/ilan/emlak-konut-kiralik-tam-merkezde-sahile-100-m-deniz-goren-2-plus1-kiralik-daire-1330951435/detay",
+      "aciklama": "İlan No: 1330951435 | Aydın / Kuşadası"
     },
     {
-      "id": 1345192945,
-      "tip": "Kiralık",
-      "kategori": "Daire",
-      "fiyat": "28.000 TL",
-      "baslik": "MERKEZE YAKIN GENİŞ 2+1 KİRALIK DAİRE",
-      "detay": "2+1 | İlan No: 1345192945",
-      "konum": "Aydın / Kuşadası",
-      "img": "https://i0.shbdn.com/photos/19/29/45/lthmb_13451929452wc.avif",
-      "link": "https://sahibinden.com/ilan/emlak-konut-kiralik-merkeze-yakin-genis-2-plus1-kiralik-daire-1345192945/detay"
-    },
-    {
-      "id": 1345340286,
+      "id": 1339509506,
       "tip": "Satılık",
       "kategori": "Daire",
-      "fiyat": "8.950.000 TL",
-      "baslik": "DOĞALGAZLI VE HAVUZLU SİTEDE GENİŞ 3+1 DAİRE",
-      "detay": "3+1 | İlan No: 1345340286",
+      "fiyat": "7.500.000 TL",
+      "baslik": "EŞYALI DOĞALGAZ-HAVUZ VE BAHÇELİ120 M2 2+1 (3+1 den dönme) DAİRE",
+      "detay": "İlan No: 1339509506",
       "konum": "Aydın / Kuşadası",
-      "img": "https://i0.shbdn.com/photos/34/02/86/lthmb_1345340286fst.avif",
-      "link": "https://sahibinden.com/ilan/emlak-konut-satilik-dogalgazli-ve-havuzlu-sitede-genis-3-plus1-daire-1345340286/detay"
-    },
-    {
-      "id": 1345192999,
-      "tip": "Satılık",
-      "kategori": "Daire",
-      "fiyat": "6.750.000 TL",
-      "baslik": "DENİZ MANZARALI HAVUZLU FUL EŞYALI 3+1 DAİRE",
-      "detay": "3+1 | İlan No: 1345192999",
-      "konum": "Aydın / Kuşadası",
-      "img": "https://i0.shbdn.com/photos/19/29/99/lthmb_1345192999hk0.avif",
-      "link": "https://sahibinden.com/ilan/emlak-konut-satilik-deniz-manzarali-havuzlu-ve-ful-esyali-3-plus1-daire-1345192999/detay"
+      "img": "https://i0.shbdn.com/photos/50/95/06/lthmb_1339509506jlc.avif",
+      "fotos": [
+        "https://i0.shbdn.com/photos/50/95/06/lthmb_1339509506jlc.avif"
+      ],
+      "link": "https://sahibinden.com/ilan/emlak-konut-satilik-esyali-dogalgaz-havuz-ve-bahceli120-m2-2-plus1-3-plus1-den-donme-daire-1339509506/detay",
+      "aciklama": "İlan No: 1339509506 | Aydın / Kuşadası"
     },
     {
       "id": 1345191990,
@@ -75,32 +39,104 @@
       "kategori": "Daire",
       "fiyat": "5.250.000 TL",
       "baslik": "FUL EŞYALI HAVUZLU SİTEDE 2+1 DAİRE",
-      "detay": "2+1 | İlan No: 1345191990",
+      "detay": "İlan No: 1345191990",
       "konum": "Aydın / Kuşadası",
       "img": "https://i0.shbdn.com/photos/19/19/90/lthmb_1345191990ose.avif",
-      "link": "https://sahibinden.com/ilan/emlak-konut-satilik-ful-esyali-havuzlu-sitede-2-plus1-daire-1345191990/detay"
+      "fotos": [
+        "https://i0.shbdn.com/photos/19/19/90/lthmb_1345191990ose.avif"
+      ],
+      "link": "https://sahibinden.com/ilan/emlak-konut-satilik-ful-esyali-havuzlu-sitede-2-plus1-daire-1345191990/detay",
+      "aciklama": "İlan No: 1345191990 | Aydın / Kuşadası"
     },
     {
-      "id": 1345341387,
-      "tip": "Satılık",
-      "kategori": "Rezidans",
-      "fiyat": "12.250.000 TL",
-      "baslik": "FUL DENİZ MANZARALI DOĞALGAZLI GENİŞ 3+1 DAİRE",
-      "detay": "3+1 Rezidans | İlan No: 1345341387",
+      "id": 1345192945,
+      "tip": "Kiralık",
+      "kategori": "Daire",
+      "fiyat": "28.000 TL",
+      "baslik": "MERKEZE YAKIN GENİŞ 2+1 KİRALIK DAİRE",
+      "detay": "İlan No: 1345192945",
       "konum": "Aydın / Kuşadası",
-      "img": "https://i0.shbdn.com/photos/34/13/87/lthmb_1345341387iuk.avif",
-      "link": "https://sahibinden.com/ilan/emlak-konut-satilik-ful-deniz-manzarali-ve-dogalgazli-genis-3-plus1-daire-1345341387/detay"
+      "img": "https://i0.shbdn.com/photos/19/29/45/lthmb_13451929452wc.avif",
+      "fotos": [
+        "https://i0.shbdn.com/photos/19/29/45/lthmb_13451929452wc.avif"
+      ],
+      "link": "https://sahibinden.com/ilan/emlak-konut-kiralik-merkeze-yakin-genis-2-plus1-kiralik-daire-1345192945/detay",
+      "aciklama": "İlan No: 1345192945 | Aydın / Kuşadası"
+    },
+    {
+      "id": 1345192999,
+      "tip": "Satılık",
+      "kategori": "Daire",
+      "fiyat": "6.750.000 TL",
+      "baslik": "DENİZ MANZARALI HAVUZLU VE FUL EŞYALI 3+1 DAİRE",
+      "detay": "İlan No: 1345192999",
+      "konum": "Aydın / Kuşadası",
+      "img": "https://i0.shbdn.com/photos/19/29/99/lthmb_1345192999hk0.avif",
+      "fotos": [
+        "https://i0.shbdn.com/photos/19/29/99/lthmb_1345192999hk0.avif"
+      ],
+      "link": "https://sahibinden.com/ilan/emlak-konut-satilik-deniz-manzarali-havuzlu-ve-ful-esyali-3-plus1-daire-1345192999/detay",
+      "aciklama": "İlan No: 1345192999 | Aydın / Kuşadası"
+    },
+    {
+      "id": 1345340286,
+      "tip": "Satılık",
+      "kategori": "Daire",
+      "fiyat": "8.950.000 TL",
+      "baslik": "DOĞALGAZLI VE HAVUZLU SİTEDE GENİŞ 3+1 DAİRE",
+      "detay": "İlan No: 1345340286",
+      "konum": "Aydın / Kuşadası",
+      "img": "https://i0.shbdn.com/photos/34/02/86/lthmb_1345340286fst.avif",
+      "fotos": [
+        "https://i0.shbdn.com/photos/34/02/86/lthmb_1345340286fst.avif"
+      ],
+      "link": "https://sahibinden.com/ilan/emlak-konut-satilik-dogalgazli-ve-havuzlu-sitede-genis-3-plus1-daire-1345340286/detay",
+      "aciklama": "İlan No: 1345340286 | Aydın / Kuşadası"
     },
     {
       "id": 1345341185,
       "tip": "Satılık",
       "kategori": "Rezidans",
       "fiyat": "18.250.000 TL",
-      "baslik": "DENİZ MANZARALI EGE MAH LÜX REZİDANS 3+1",
-      "detay": "3+1 Rezidans | İlan No: 1345341185",
+      "baslik": "DENİZ MANZARALI EGE MAH LÜX REZİDANS 3+1 DAİRE",
+      "detay": "İlan No: 1345341185",
       "konum": "Aydın / Kuşadası",
       "img": "https://i0.shbdn.com/photos/34/11/85/lthmb_1345341185p68.avif",
-      "link": "https://sahibinden.com/ilan/emlak-konut-satilik-deniz-manzarali-ege-mah-lux-rezidans-3-plus1-daire-1345341185/detay"
+      "fotos": [
+        "https://i0.shbdn.com/photos/34/11/85/lthmb_1345341185p68.avif"
+      ],
+      "link": "https://sahibinden.com/ilan/emlak-konut-satilik-deniz-manzarali-ege-mah-lux-rezidans-3-plus1-daire-1345341185/detay",
+      "aciklama": "İlan No: 1345341185 | Aydın / Kuşadası"
+    },
+    {
+      "id": 1345341387,
+      "tip": "Satılık",
+      "kategori": "Daire",
+      "fiyat": "12.250.000 TL",
+      "baslik": "FUL DENİZ MANZARALI VE DOĞALGAZLI GENİŞ 3+1 DAİRE",
+      "detay": "İlan No: 1345341387",
+      "konum": "Aydın / Kuşadası",
+      "img": "https://i0.shbdn.com/photos/34/13/87/lthmb_1345341387iuk.avif",
+      "fotos": [
+        "https://i0.shbdn.com/photos/34/13/87/lthmb_1345341387iuk.avif"
+      ],
+      "link": "https://sahibinden.com/ilan/emlak-konut-satilik-ful-deniz-manzarali-ve-dogalgazli-genis-3-plus1-daire-1345341387/detay",
+      "aciklama": "İlan No: 1345341387 | Aydın / Kuşadası"
+    },
+    {
+      "id": 1345341751,
+      "tip": "Satılık",
+      "kategori": "İş Yeri",
+      "fiyat": "16.250.000 TL",
+      "baslik": "DAVUTLAR MERKEZ ANAYOL KENARI 400 M2 SATILIK DÜKKAN İŞYERİ",
+      "detay": "İlan No: 1345341751",
+      "konum": "Aydın / Kuşadası",
+      "img": "https://i0.shbdn.com/photos/34/17/51/lthmb_13453417511iy.avif",
+      "fotos": [
+        "https://i0.shbdn.com/photos/34/17/51/lthmb_13453417511iy.avif"
+      ],
+      "link": "https://sahibinden.com/ilan/emlak-is-yeri-satilik-davutlar-merkez-anayol-kenari-400-m2-satilik-dukkan-isyeri-1345341751/detay",
+      "aciklama": "İlan No: 1345341751 | Aydın / Kuşadası"
     }
   ]
 }
